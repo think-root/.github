@@ -2,7 +2,7 @@
 
 ### What does all this mean?  
 
-There was a time when I felt the need for a Telegram channel that would publish interesting GitHub repositories. So, I armed myself with artificial intelligence and created such a channel for myself.  
+There was a time when I felt the need for a Telegram channel that would publish interesting GitHub repositories. So, I armed myself with AI and created such a channel for myself.  
 
 You can read more about it here (in Ukrainian):  
 
