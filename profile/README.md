@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### What does all this mean?  
+### 👀 What does all this mean?  
 
 There was a time when I felt the need for a Telegram channel that would publish interesting GitHub repositories. So, I armed myself with AI and created such a channel for myself.  
 
@@ -11,21 +11,21 @@ You can read more about it here (in Ukrainian):
 
 As a result, I decided to publish all the code I had previously written for this project — and even added a few new integrations.
 
-### What should you do with all this? 
+### 🤔 What should you do with all this? 
 
 I don't know. I'm gifting this poorly written and unoptimized code to the world — what happens next is no longer my concern. Of course, I will maintain the code until I get bored.
 
-### Repositories structure  
+### 🧬 Repositories structure  
 
 Yeah, I know, there are too many of them, but I can't put all the code in one app, can I? 
 
-### Main repositories
+### 🥇 Main repositories
 
 - [content-alchemist](https://github.com/think-root/content-alchemist) – a sort of API server that helps generate nice descriptions for GitHub repositories. It also includes a database.  
 - [content-maestro](https://github.com/think-root/content-maestro) – a tool that skillfully juggles content like a maestro. Simply put, it sends requests to various integrations with text (and sometimes images).
 - [content-sentinel](https://github.com/think-root/content-sentinel) - a dashboard that provides insights and oversight for content operations, helping track, manage, and analyze content.
 
-### Integrations
+### 🥈 Integrations
 
 I think it's clear here without any extra explanation.
 
