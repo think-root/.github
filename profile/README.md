@@ -4,10 +4,7 @@
 
 There was a time when I felt the need for a Telegram channel that would publish interesting GitHub repositories. So, I armed myself with AI and created such a channel for myself.  
 
-You can read more about it here (in Ukrainian):  
-
-- [How ChatGPT Manages My Telegram Channel - Part 1](https://drukarnia.com.ua/articles/yak-chatgpt-vede-za-mene-kanal-v-telegram-i-u-nogo-ce-maizhe-vikhodit-chastina-1-VywRW)  
-- [How ChatGPT Manages My Telegram Channel - Part 2](https://drukarnia.com.ua/articles/yak-chatgpt-vede-za-mene-kanal-v-telegram-i-u-nogo-ce-maizhe-vikhodit-chastina-2-X9Yjz)  
+You can read more about it [here](https://drukarnia.com.ua/articles/yak-shtuchnii-intelekt-vede-telegram-kanal-ta-ne-lishe-iogo-i-u-nogo-ce-chudovo-vikhodit-tnpeE) (in Ukrainian):  
 
 As a result, I decided to publish all the code I had previously written for this project — and even added a few new integrations.
 
