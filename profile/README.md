@@ -29,3 +29,4 @@ I think it's clear here without any extra explanation.
 - [telegram](https://github.com/think-root/telegram-connector)
 - [whatsapp](https://github.com/think-root/whatsapp-connector)
 - [twitter](https://github.com/think-root/x-connector)
+- [bluesky](https://github.com/think-root/bluesky-connector)
