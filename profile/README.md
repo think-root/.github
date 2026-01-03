@@ -22,11 +22,9 @@ Yeah, I know, there are too many of them, but I can't put all the code in one ap
 - [content-maestro](https://github.com/think-root/content-maestro) – a tool that skillfully juggles content like a maestro. Simply put, it sends requests to various integrations with text (and sometimes images).
 - [content-sentinel](https://github.com/think-root/content-sentinel) - a dashboard that provides insights and oversight for content operations, helping track, manage, and analyze content.
 
-### 🥈 Integrations
-
-I think it's clear here without any extra explanation.
+### 🥈 Social media integrations
 
 - [telegram](https://github.com/think-root/telegram-connector)
-- [whatsapp](https://github.com/think-root/whatsapp-connector)
 - [twitter](https://github.com/think-root/x-connector)
 - [bluesky](https://github.com/think-root/bluesky-connector)
+- [whatsapp](https://github.com/think-root/whatsapp-connector)
