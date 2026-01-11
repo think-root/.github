@@ -26,5 +26,6 @@ Yeah, I know, there are too many of them, but I can't put all the code in one ap
 
 - [telegram](https://github.com/think-root/telegram-connector)
 - [twitter](https://github.com/think-root/x-connector)
+- [threads](https://github.com/think-root/threads-connector)
 - [bluesky](https://github.com/think-root/bluesky-connector)
 - [whatsapp](https://github.com/think-root/whatsapp-connector)
